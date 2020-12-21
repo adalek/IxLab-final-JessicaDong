@@ -1,3 +1,6 @@
+// NOC-Dandelion-Kathy Wang
+//https://gist.github.com/kathykwang/5154a2246651037357fdd864ba182653
+
 import processing.sound.*;
 
 // declare a SoundFile object
